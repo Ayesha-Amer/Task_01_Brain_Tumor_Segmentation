@@ -1,2 +1,10 @@
-# Task_01_Brain_Tumor_Segmentation
-I'm currently working with ARCH Technologies as part of their Machine Learning Internship. This project was assigned to me as Task 1, focused on brain tumor segmentation using advanced models like YOLOv11 and SAM2 for precise detection and localization.
+# Brain Tumor Segmentation Using YOLOv11 and SAM2
+
+## Project Description
+This project focuses on using advanced computer vision models, **YOLOv11** and **SAM2**, to segment brain tumors in medical images for improved diagnosis and treatment planning.
+
+## Technologies Used
+- **YOLOv11**: Real-time object detection model for identifying multiple objects.
+- **SAM2**: Model for precise segmentation of objects.
+- **Python**, **OpenCV**, **TensorFlow**, **PyTorch**.
+
