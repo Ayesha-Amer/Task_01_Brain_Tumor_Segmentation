@@ -69,7 +69,7 @@ The results, including bounding boxes around the detected object, were saved in 
 ## Applying SAM2 for Precise Segmentation
 The **SAM2** model is used for precise segmentation of detected objects. After **YOLOv11** detected the **Meningioma** tumor and provided the bounding box coordinates, I applied the **SAM2** model to segment the tumor with high accuracy, highlighting the exact tumor region for further diagnosis and treatment planning.
 
-![SAM2 Segmentation Results](pic2.png)
+![SAM2 Segmentation Results](Pic2.png)
 
 ### SAM2 Segmentation Results:
 The **SAM2** model takes the bounding boxes outputted by **YOLOv11** and applies precise segmentation to highlight the exact tumor region. This ensures that the tumor is accurately delineated from the surrounding tissue, which is crucial for effective diagnosis and treatment planning.
