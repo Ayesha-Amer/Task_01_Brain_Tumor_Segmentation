@@ -64,7 +64,7 @@ The **YOLOv11** model detected a **Meningioma** tumor in the provided test image
 
 The results, including bounding boxes around the detected object, were saved in the directory `runs/detect/predict`.
 
-![Object Detection Results](pic7.png)
+![Object Detection Results](pic 7.png)
 
 ## Applying SAM2 for Precise Segmentation
 The **SAM2** model is used for precise segmentation of detected objects. After **YOLOv11** detected the **Meningioma** tumor and provided the bounding box coordinates, I applied the **SAM2** model to segment the tumor with high accuracy, highlighting the exact tumor region for further diagnosis and treatment planning.
